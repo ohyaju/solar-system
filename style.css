@@ -1,0 +1,12 @@
+body {
+    background-image: url(./photos/galaxy.jpeg);
+    width: 900px;
+    height: 900px;
+    position: relative;
+}
+
+.sun {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
